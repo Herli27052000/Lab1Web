@@ -2,3 +2,7 @@
 ## Paragraf
 
 ![paragraf](img/paragraf.png)
+
+# Heading
+
+![Heading](img/paragraf2.png)
