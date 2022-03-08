@@ -17,4 +17,10 @@ ini adalah contoh dari format teks,seperti memberi span background-color yellow,
 
 ![Menambahkanfoto](img/tambahfoto.png)
 
-untuk menambahkan foto menggunakan tag img dan diratuh folder yang sesui untuk source tersebut
+untuk menambahkan foto menggunakan tag img dan ditaruh folder yang sesui untuk source tersebut
+
+## Menambahkan link
+
+![Menambahkanlink](img/menambahkanlink.png)
+
+jadi ini adalah contoh bagaimana hasil menambahkan link pada tag HTML yaitu a herf dan hasil nya sebagai berikut
