@@ -3,9 +3,13 @@
 
 ![paragraf](img/paragraf.png)
 
+Paragraf memiliki tag yaitu (p) di dalam tag juga kita bisa menambahkan style seperti warna dan format teks
+
 ## Heading
 
 ![Heading](img/paragraf2.png)
+
+Heading adalah judul artikel Heading terbesar yaitu (h1) dan seterus nya akan kecil,namun yang biasa digunakan yaitu (h1) atau (h2)
 
 ## Format teks
 
